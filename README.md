@@ -83,10 +83,10 @@ insights, and recommendations.
 
 ## Dashboard
 
-View Payment Performance Dashboard (PDF)
+[View Payment Performance Dashboard (PDF)](dashboard/PayFlow_-_Payment_Transactions_Dashboard.pdf)
 
 Live Looker Studio Dashboard:
-View Dashboard
+[View Dashboard](https://datastudio.google.com/reporting/07ce454b-7d4f-42ea-a3c8-71da7b8e829e)
 
 ## Key Insights
 
